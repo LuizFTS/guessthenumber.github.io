@@ -1,1 +1,4 @@
-# guessthenumber.github.io
+<h1>Guess the number</h1>
+
+<p>It's my first project inspired by a JavaScript class when we type a number between one and ten in a number input field and submit it. If the number that you typed is equal to the random variable defined in the code then you appear a green text that contains the word "Acertou!", something like "you guessed correct" but in portuguese. And if you typed a number different than the value defined by the winning variable than the text color will be red and the text "Perdeu!", like "you've lost".</p><p>The difference between that project that i've learnt in a JS course and this project that i've published is the way that you will guess the number. Instead of type a number you will click in a number and if you guess is correct the background color of the block clicked will turn to green if your guess is wrong than red and your guesses left you count minus one of five.</p><p>I used HTML, CSS and JavaScript to make this project<br/>
+Check it out: <a href="http://luizfts.github.io/guessthenumber.github.io">guessthenumber.github.io</a></p>
