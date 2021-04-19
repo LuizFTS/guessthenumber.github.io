@@ -104,3 +104,10 @@ body {
 #again:hover {
     background-color: rgb(65, 64, 64);
 }
+
+@media only screen and (max-width: 600px){
+    .center tr td {
+        padding: 20px;
+        font-size: 25px;
+    }
+}
