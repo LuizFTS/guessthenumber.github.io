@@ -1,4 +1,4 @@
-const winningNumber = Math.floor(Math.random()*10)+1;
+const winningNumber = Math.floor(Math.random()*20)+1;
 let guessesLeft = 5;
 const result = document.querySelector('.winning-child');
 const resultText = document.querySelector('#result');
